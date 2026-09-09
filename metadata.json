@@ -1,0 +1,6 @@
+{
+  "name": "DineEase",
+  "description": "A modern, premium culinary dining, food ordering, and table reservation application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
